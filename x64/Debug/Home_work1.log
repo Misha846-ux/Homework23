@@ -1,0 +1,7 @@
+﻿  FileName.cpp
+  String.cpp
+  Generating Code...
+C:\Users\Миша\source\repos\Home_work1\Home_work1\String.cpp(22,16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Миша\source\repos\Home_work1\Home_work1\String.cpp(48,16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Миша\source\repos\Home_work1\Home_work1\String.cpp(62,16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Home_work1.vcxproj -> C:\Users\Миша\source\repos\Home_work1\x64\Debug\Home_work1.exe
